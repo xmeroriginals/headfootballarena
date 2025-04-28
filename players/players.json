@@ -1,18 +1,22 @@
 [
   {
     "name": "Lionel Messi",
-    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/LionelMessi.png"
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/LionelMessi.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/LionelMessi.wav"
   },
   {
     "name": "Cristiano Ronaldo",
-    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/CristianoRonaldo.png"
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/CristianoRonaldo.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/CristianoRonaldo.wav"
   },
   {
     "name": "Neymar Jr.",
-    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/NeymarJr.png"
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/NeymarJr.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/NeymarJr.wav"
   },
   {
     "name": "Kylian Mbappé",
-    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/KylianMbappe.png"
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/KylianMbappe.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/KylianMbappe.wav"
   }
 ]
