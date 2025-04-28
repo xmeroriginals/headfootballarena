@@ -1,0 +1,22 @@
+{
+  "name": "Head Football Arena",
+  "short_name": "Head Football",
+  "start_url": "https://xmeroriginals.github.io/headfootballarena/",
+  "scope": "https://xmeroriginals.github.io/headfootballarena/",
+  "display": "standalone",
+  "background_color": "#05c502",
+  "theme_color": "#04af01",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/headfootballarena/assets/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/headfootballarena/assets/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+}
