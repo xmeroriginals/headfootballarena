@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="manifest" href="src/manifest.json" />
+    <title>Head Football Arena</title>
+    
+    <meta name="description" content="Top-down penalty saving game. Test your football skills, save penalties, and lead your team to victory. Free, accessible, and suitable for everyone." />
+    <meta name="description" lang="tr" content="Kuş bakışı penaltı kurtarma oyunu. Futbol becerilerinizi test edin, penaltıları kurtarın ve takımınızı zafere taşıyın. Ücretsiz, erişilebilir ve herkes için uygun." />
+
+    <meta name="keywords" content="Head Football Arena, penalty saving, football game, football skills, online game, free game, football, multiplayer, games, browser games" />
+    <meta name="keywords" lang="tr" content="Head Football Arena, penaltı kurtarma, futbol oyunu, futbol becerileri, online oyun, ücretsiz oyun, futbol, multiplayer, oyunlar, browser oyunları" />
+
+    <meta name="author" content="XmerOriginals" />
+
+    <meta property="og:title" content="Head Football Arena - Top-down Penalty Saving Game" />
+    <meta property="og:title" lang="tr" content="Head Football Arena - Kuş Bakışı Penaltı Kurtarma Oyunu" />
+
+    <meta property="og:description" content="Play a top-down football game. Save penalties and lead your team to success." />
+    <meta property="og:description" lang="tr" content="Kuş bakışı futbol oyunu. Penaltıları kurtarın ve takımınızı zafere taşıyın." />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://xmeroriginals.github.io/headheadfootballarena/" />
+    <meta property="og:image" content="https://xmeroriginals.github.io/headheadfootballarena/assets/headfootballarena.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Head Football Arena - Top-down Penalty Saving Game" />
+    <meta name="twitter:description" content="A football game where you save penalties from a top-down perspective." />
+    <meta name="twitter:image" content="https://xmeroriginals.github.io/headheadfootballarena/assets/headfootballarena.png" />
+    <meta name="twitter:creator" content="@XmerOriginals" />
+
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Head Football Arena" />
+    <meta name="theme-color" content="#1e1f3a" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Game",
+        "name": "Head Football Arena",
+        "url": "https://xmeroriginals.github.io/headheadfootballarena/",
+        "image": "https://xmeroriginals.github.io/headheadfootballarena/assets/headfootballarena.png",
+        "author": {
+          "@type": "Organization",
+          "name": "XmerOriginals"
+        },
+        "description": "Top-down penalty saving football game. Save penalties and lead your team to victory.",
+        "applicationCategory": "MultimediaApplication",
+        "operatingSystem": "All",
+        "genre": ["Game", "Football", "Sports", "Action"],
+        "playMode": "SinglePlayer"
+      }
+    </script>
+
+    <link rel="icon" type="image/png" href="https://xmeroriginals.github.io/headheadfootballarena/assets/headfootballarenaicon.png" />
+
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        width: 100vw;
+        height: 100vh;
+        background-color: #05c502;
+        font-family: "Fredoka", sans-serif;
+      }
+
+      .frame-wrapper {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .hfa-frame {
+        width: 360px;
+        height: 640px;
+        border: 5px solid #04af01;
+        border-radius: 25px;
+        display: block;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="frame-wrapper">
+      <iframe
+        class="hfa-frame"
+        id="game-frame"
+        src="https://xmeroriginals.github.io/headheadfootballarena/gamestarter/start.html"
+        sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
+      ></iframe>
+    </div>
+  </body>
+</html>
