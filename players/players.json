@@ -10,6 +10,11 @@
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/CristianoRonaldo.wav"
   },
   {
+    "name": "Mauro Icardi",
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/MauroIcardi.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/MauroIcardi.wav"
+  },
+  {
     "name": "Neymar Jr.",
     "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/NeymarJr.png",
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/NeymarJr.wav"
