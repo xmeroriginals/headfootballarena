@@ -23,5 +23,15 @@
     "name": "Kylian Mbappé",
     "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/KylianMbappe.png",
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/KylianMbappe.wav"
+  },
+  {
+    "name": "Eden Hazard",
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/EdenHazard.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/EdenHazard.wav"
+  },
+  {
+    "name": "Thibaut Courtois",
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/ThibautCourtois.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/ThibautCourtois.wav"
   }
 ]
