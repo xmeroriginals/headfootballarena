@@ -30,6 +30,16 @@
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/EdenHazard.wav"
   },
   {
+    "name": "Lamine Yamal",
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/LamineYamal.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/LamineYamal.wav"
+  },
+  {
+    "name": "Víctor Osimhen",
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/VíctorOsimhen.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/VíctorOsimhen.wav"
+  },
+  {
     "name": "Thibaut Courtois",
     "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/ThibautCourtois.png",
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/ThibautCourtois.wav"
