@@ -45,6 +45,11 @@
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/ThibautCourtois.wav"
   },
   {
+    "name": "Arda Güler",
+    "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/ArdaGuler.png",
+    "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/ArdaGuler.wav"
+  },
+  {
     "name": "Rafa Silva",
     "head": "https://xmeroriginals.github.io/headfootballarena/players/playerheads/RafaSilva.png",
     "sound": "https://xmeroriginals.github.io/headfootballarena/players/playersounds/RafaSilva.wav"
